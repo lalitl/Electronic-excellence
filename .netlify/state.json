@@ -1,0 +1,20 @@
+{
+	"siteId": "859218d1-6571-41ec-9c98-16641303e4eb",
+	"geolocation": {
+		"data": {
+			"city": "Bengaluru",
+			"country": {
+				"code": "IN",
+				"name": "India"
+			},
+			"subdivision": {
+				"code": "KA",
+				"name": "Karnataka"
+			},
+			"timezone": "Asia/Kolkata",
+			"latitude": 12.9634,
+			"longitude": 77.5855
+		},
+		"timestamp": 1692544378850
+	}
+}
